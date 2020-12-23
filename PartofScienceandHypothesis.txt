@@ -1,0 +1,102 @@
+The very possibility of the science of mathematics seems an insoluble contradiction. If this science is deductive only in appearance, whence does it derive that perfect rigor no one dreams of doubting? If, on the contrary, all the propositions it enunciates can be deduced one from another by the rules of formal logic, why is not mathematics reduced to an immense tautology? The syllogism can teach us nothing essentially new, and, if everything is to spring from the principle of identity, everything should be capable of being reduced to it. Shall we then admit that the enunciations of all those theorems which fill so many volumes are nothing but devious ways of saying A is A?
+
+Without doubt, we can go back to the axioms, which are at the source of all these reasonings. If we decide that these can not be reduced to the principle of contradiction, if still less we see in them experimental facts which could not partake of mathematical necessity, we have yet the resource of classing them among synthetic a priori judgments. This is not to solve the difficulty, but only to baptize it; and even if the nature of synthetic judgments were for us no mystery, the contradiction would not have disappeared, it would only have moved back; syllogistic reasoning remains incapable of adding anything to the data given it: these data reduce themselves to a few axioms, and we should find nothing else in the conclusions.
+
+No theorem could be new if no new axiom intervened in its demonstration; reasoning could give us only the immediately[Pg 32] evident verities borrowed from direct intuition; it would be only an intermediary parasite, and therefore should we not have good reason to ask whether the whole syllogistic apparatus did not serve solely to disguise our borrowing?
+
+The contradiction will strike us the more if we open any book on mathematics; on every page the author will announce his intention of generalizing some proposition already known. Does the mathematical method proceed from the particular to the general, and, if so, how then can it be called deductive?
+
+If finally the science of number were purely analytic, or could be analytically derived from a small number of synthetic judgments, it seems that a mind sufficiently powerful could at a glance perceive all its truths; nay more, we might even hope that some day one would invent to express them a language sufficiently simple to have them appear self-evident to an ordinary intelligence.
+
+If we refuse to admit these consequences, it must be conceded that mathematical reasoning has of itself a sort of creative virtue and consequently differs from the syllogism.
+
+The difference must even be profound. We shall not, for example, find the key to the mystery in the frequent use of that rule according to which one and the same uniform operation applied to two equal numbers will give identical results.
+
+All these modes of reasoning, whether or not they be reducible to the syllogism properly so called, retain the analytic character, and just because of that are powerless.
+
+The essential characteristic of reasoning by recurrence is that it contains, condensed, so to speak, in a single formula, an infinity of syllogisms.
+
+That this may the better be seen, I will state one after another these syllogisms which are, if you will allow me the expression, arranged in 'cascade.'
+
+These are of course hypothetical syllogisms.
+
+The theorem is true of the number 1.
+
+Now, if it is true of 1, it is true of 2.
+
+Therefore it is true of 2.
+
+Now, if it is true of 2, it is true of 3.
+
+Therefore it is true of 3, and so on.
+
+We see that the conclusion of each syllogism serves as minor to the following.
+
+Furthermore the majors of all our syllogisms can be reduced to a single formula.
+
+If the theorem is true of n − 1, so it is of n.
+
+We see, then, that in reasoning by recurrence we confine ourselves to stating the minor of the first syllogism, and the general formula which contains as particular cases all the majors.
+
+This never-ending series of syllogisms is thus reduced to a phrase of a few lines.[Pg 38]
+
+It is now easy to comprehend why every particular consequence of a theorem can, as I have explained above, be verified by purely analytic procedures.
+
+If instead of showing that our theorem is true of all numbers, we only wish to show it true of the number 6, for example, it will suffice for us to establish the first 5 syllogisms of our cascade; 9 would be necessary if we wished to prove the theorem for the number 10; more would be needed for a larger number; but, however great this number might be, we should always end by reaching it, and the analytic verification would be possible.
+
+And yet, however far we thus might go, we could never rise to the general theorem, applicable to all numbers, which alone can be the object of science. To reach this, an infinity of syllogisms would be necessary; it would be necessary to overleap an abyss that the patience of the analyst, restricted to the resources of formal logic alone, never could fill up.
+
+I asked at the outset why one could not conceive of a mind sufficiently powerful to perceive at a glance the whole body of mathematical truths.
+
+The answer is now easy; a chess-player is able to combine four moves, five moves, in advance, but, however extraordinary he may be, he will never prepare more than a finite number of them; if he applies his faculties to arithmetic, he will not be able to perceive its general truths by a single direct intuition; to arrive at the smallest theorem he can not dispense with the aid of reasoning by recurrence, for this is an instrument which enables us to pass from the finite to the infinite.
+
+This instrument is always useful, for, allowing us to overleap at a bound as many stages as we wish, it spares us verifications, long, irksome and monotonous, which would quickly become impracticable. But it becomes indispensable as soon as we aim at the general theorem, to which analytic verification would bring us continually nearer without ever enabling us to reach it.
+
+In this domain of arithmetic, we may think ourselves very far from the infinitesimal analysis, and yet, as we have just seen, the idea of the mathematical infinite already plays a preponderant rôle, and without it there would be no science, because there would be nothing general.
+
+The judgment on which reasoning by recurrence rests can be put under other forms; we may say, for example, that in an infinite collection of different whole numbers there is always one which is less than all the others.
+
+We can easily pass from one enunciation to the other and thus get the illusion of having demonstrated the legitimacy of reasoning by recurrence. But we shall always be arrested, we shall always arrive at an undemonstrable axiom which will be in reality only the proposition to be proved translated into another language.
+
+We can not therefore escape the conclusion that the rule of reasoning by recurrence is irreducible to the principle of contradiction.
+
+Neither can this rule come to us from experience; experience could teach us that the rule is true for the first ten or hundred numbers; for example, it can not attain to the indefinite series of numbers, but only to a portion of this series, more or less long but always limited.
+
+Now if it were only a question of that, the principle of contradiction would suffice; it would always allow of our developing as many syllogisms as we wished; it is only when it is a question of including an infinity of them in a single formula, it is only before the infinite that this principle fails, and there too, experience becomes powerless. This rule, inaccessible to analytic demonstration and to experience, is the veritable type of the synthetic a priori judgment. On the other hand, we can not think of seeing in it a convention, as in some of the postulates of geometry.
+
+Why then does this judgment force itself upon us with an irresistible evidence? It is because it is only the affirmation of the power of the mind which knows itself capable of conceiving the indefinite repetition of the same act when once this act is possible. The mind has a direct intuition of this power, and experience can only give occasion for using it and thereby becoming conscious of it.
+
+But, one will say, if raw experience can not legitimatize reasoning by recurrence, is it so of experiment aided by[Pg 40] induction? We see successively that a theorem is true of the number 1, of the number 2, of the number 3 and so on; the law is evident, we say, and it has the same warranty as every physical law based on observations, whose number is very great but limited.
+
+Here is, it must be admitted, a striking analogy with the usual procedures of induction. But there is an essential difference. Induction applied to the physical sciences is always uncertain, because it rests on the belief in a general order of the universe, an order outside of us. Mathematical induction, that is, demonstration by recurrence, on the contrary, imposes itself necessarily because it is only the affirmation of a property of the mind itself.
+
+To learn what mathematicians understand by a continuum, one should not inquire of geometry. The geometer always seeks to represent to himself more or less the figures he studies, but his representations are for him only instruments; in making geometry he uses space just as he does chalk; so too much weight should not be attached to non-essentials, often of no more importance than the whiteness of the chalk.
+
+The pure analyst has not this rock to fear. He has disengaged the science of mathematics from all foreign elements, and can answer our question: 'What exactly is this continuum about which mathematicians reason?' Many analysts who reflect on their art have answered already; Monsieur Tannery, for example, in his Introduction à la théorie des fonctions d'une variable.
+
+Let us start from the scale of whole numbers; between two consecutive steps, intercalate one or more intermediary steps, then between these new steps still others, and so on indefinitely. Thus we shall have an unlimited number of terms; these will be the numbers called fractional, rational or commensurable. But this is not yet enough; between these terms, which, however, are already infinite in number, it is still necessary to intercalate others called irrational or incommensurable. A remark before going further. The continuum so conceived is only a collection of individuals ranged in a certain order, infinite in number, it is true, but exterior to one another. This is not the ordinary conception, wherein is supposed between the elements of the continuum a sort of intimate bond which makes of them a whole, where the point does not exist before the line, but the line before the point. Of the celebrated formula, 'the continuum is unity in multiplicity,' only the multiplicity remains, the unity has disappeared. The analysts are none the less right in defining their continuum as they do, for they always reason on just this as soon as they pique themselves on their rigor. But this is[Pg 44] enough to apprise us that the veritable mathematical continuum is a very different thing from that of the physicists and that of the metaphysicians.
+
+It may also be said perhaps that the mathematicians who are content with this definition are dupes of words, that it is necessary to say precisely what each of these intermediary steps is, to explain how they are to be intercalated and to demonstrate that it is possible to do it. But that would be wrong; the only property of these steps which is used in their reasonings[2] is that of being before or after such and such steps; therefore also this alone should occur in the definition.
+
+So how the intermediary terms should be intercalated need not concern us; on the other hand, no one will doubt the possibility of this operation, unless from forgetting that possible, in the language of geometers, simply means free from contradiction.
+
+Our definition, however, is not yet complete, and I return to it after this over-long digression.
+
+Definition of Incommensurables.—The mathematicians of the Berlin school, Kronecker in particular, have devoted themselves to constructing this continuous scale of fractional and irrational numbers without using any material other than the whole number. The mathematical continuum would be, in this view, a pure creation of the mind, where experience would have no part.
+
+The notion of the rational number seeming to them to present no difficulty, they have chiefly striven to define the incommensurable number. But before producing here their definition, I must make a remark to forestall the astonishment it is sure to arouse in readers unfamiliar with the customs of geometers.
+
+Mathematicians study not objects, but relations between objects; the replacement of these objects by others is therefore indifferent to them, provided the relations do not change. The matter is for them unimportant, the form alone interests them.
+
+Without recalling this, it would scarcely be comprehensible that Dedekind should designate by the name incommensurable number a mere symbol, that is to say, something very different[Pg 45] from the ordinary idea of a quantity, which should be measurable and almost tangible.
+
+Let us see now what Dedekind's definition is:
+
+The commensurable numbers can in an infinity of ways be partitioned into two classes, such that any number of the first class is greater than any number of the second class.
+
+It may happen that among the numbers of the first class there is one smaller than all the others; if, for example, we range in the first class all numbers greater than 2, and 2 itself, and in the second class all numbers less than 2, it is clear that 2 will be the least of all numbers of the first class. The number 2 may be chosen as symbol of this partition.
+
+It may happen, on the contrary, that among the numbers of the second class is one greater than all the others; this is the case, for example, if the first class comprehends all numbers greater than 2, and the second all numbers less than 2, and 2 itself. Here again the number 2 may be chosen as symbol of this partition.
+
+But it may equally well happen that neither is there in the first class a number less than all the others, nor in the second class a number greater than all the others. Suppose, for example, we put in the first class all commensurable numbers whose squares are greater than 2 and in the second all whose squares are less than 2. There is none whose square is precisely 2. Evidently there is not in the first class a number less than all the others, for, however near the square of a number may be to 2, we can always find a commensurable number whose square is still closer to 2.
+
