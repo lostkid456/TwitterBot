@@ -1,0 +1,78 @@
+Let us imagine to ourselves
+a world only peopled with beings of no thickness, and
+suppose these “infinitely flat” animals are all in one and
+the same plane, from which they cannot emerge. Let us
+further admit that this world is sufficiently distant from
+other worlds to be withdrawn from their influence, and
+while we are making these hypotheses it will not cost
+us much to endow these beings with reasoning power,
+and to believe them capable of making a geometry. In
+that case they will certainly attribute to space only two
+dimensions. But now suppose that these imaginary animals, while remaining without thickness, have the form
+of a spherical, and not of a plane figure, and are all on
+the same sphere, from which they cannot escape. What
+kind of a geometry will they construct? In the first place,
+it is clear that they will attribute to space only two dimensions. The straight line to them will be the shortest
+distance from one point on the sphere to another—that
+is to say, an arc of a great circle. In a word, their geometry will be spherical geometry. What they will call
+space will be the sphere on which they are confined, and
+on which take place all the phenomena with which they
+are acquainted. Their space will therefore be unbounded, since on a sphere one may always walk forward without
+ever being brought to a stop, and yet it will be finite;
+the end will never be found, but the complete tour can
+be made. Well, Riemann’s geometry is spherical geometry extended to three dimensions. To construct it, the
+German mathematician had first of all to throw overboard, not only Euclid’s postulate but also the first axiom that only one line can pass through two points. On
+a sphere, through two given points, we can in general
+draw only one great circle which, as we have just seen,
+would be to our imaginary beings a straight line. But
+there was one exception. If the two given points are at
+the ends of a diameter, an infinite number of great circles
+can be drawn through them. In the same way, in Riemann’s geometry—at least in one of its forms—through
+two points only one straight line can in general be drawn,
+but there are exceptional cases in which through two
+points an infinite number of straight lines can be drawn.
+So there is a kind of opposition between the geometries
+of Riemann and Lobatschewsky. For instance, the sum
+of the angles of a triangle is equal to two right angles
+in Euclid’s geometry, less than two right angles in that
+of Lobatschewsky, and greater than two right angles in
+that of Riemann. The number of parallel lines that can be drawn through a given point to a given line is one
+in Euclid’s geometry, none in Riemann’s, and an infinite
+number in the geometry of Lobatschewsky. Let us add
+that Riemann’s space is finite, although unbounded in
+the sense which we have above attached to these words.
+Surfaces with Constant Curvature.—One objection,
+however, remains possible. There is no contradiction between the theorems of Lobatschewsky and Riemann; but
+however numerous are the other consequences that these
+geometers have deduced from their hypotheses, they had
+to arrest their course before they exhausted them all, for
+the number would be infinite; and who can say that if
+they had carried their deductions further they would not
+have eventually reached some contradiction? This difficulty does not exist for Riemann’s geometry, provided
+it is limited to two dimensions. As we have seen, the
+two-dimensional geometry of Riemann, in fact, does not
+differ from spherical geometry, which is only a branch
+of ordinary geometry, and is therefore outside all contradiction. Beltrami, by showing that Lobatschewsky’s
+two-dimensional geometry was only a branch of ordinary
+geometry, has equally refuted the objection as far as it
+is concerned. This is the course of his argument: Let us
+consider any figure whatever on a surface. Imagine this figure to be traced on a flexible and inextensible canvas
+applied to the surface, in such a way that when the canvas
+is displaced and deformed the different lines of the figure
+change their form without changing their length. As a
+rule, this flexible and inextensible figure cannot be displaced without leaving the surface. But there are certain
+surfaces for which such a movement would be possible.
+They are surfaces of constant curvature. If we resume
+the comparison that we made just now, and imagine beings without thickness living on one of these surfaces,
+they will regard as possible the motion of a figure all
+the lines of which remain of a constant length. Such a
+movement would appear absurd, on the other hand, to
+animals without thickness living on a surface of variable
+curvature. These surfaces of constant curvature are of
+two kinds. The curvature of some is positive, and they
+may be deformed so as to be applied to a sphere. The geometry of these surfaces is therefore reduced to spherical
+geometry—namely, Riemann’s. The curvature of others
+is negative. Beltrami has shown that the geometry of
+these surfaces is identical with that of Lobatschewsky.
+Thus the two-dimensional geometries of Riemann and
+Lobatschewsky are connected with Euclidean geometry

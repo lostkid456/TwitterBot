@@ -1,4 +1,5 @@
 import nltk
+nltk.download('all')
 from urllib import request 
 import string 
 import random 
@@ -12,7 +13,7 @@ f.close()
 
 f2=open("Five of Maxwells Papers.txt","r")
 maxwell_raw=f2.read()
-maxwell_tokens=nltk.word_tokenize(maxwell_raw)
+#maxwell_tokens=nltk.word_tokenize(maxwell_raw)
 #maxwell_text=nltk.Text(maxwell_tokens)
 f2.close()
 
@@ -25,8 +26,8 @@ decleration_raw=f4.read()
 f5=open("PartofMathematicalP.txt","r")
 mathematicalp_raw=f5.read()
 
-bigrams=nltk.bigrams(maxwell_raw)
-cfd = nltk.ConditionalFreqDist(bigrams)
+f6=open("MoreSH.txt","r")
+MoreSh_raw=f6.read()
 
 lem=nltk.stem.WordNetLemmatizer()
 
@@ -42,8 +43,11 @@ new_maxwell_raw=Remove_Punctuations(maxwell_raw)
 new_science_raw=Remove_Punctuations(science_raw)
 new_decleration_raw=Remove_Punctuations(decleration_raw)
 new_mathematicalp_raw=Remove_Punctuations(mathematicalp_raw)
+new_MoreSh_raw=Remove_Punctuations(MoreSh_raw)
 
-my_corpus=new_maxwell_raw+new_science_raw+new_decleration_raw+new_mathematicalp_raw
+my_corpus=new_maxwell_raw+new_science_raw+new_decleration_raw+new_mathematicalp_raw+new_MoreSh_raw
+bigrams=nltk.bigrams(my_corpus)
+cfd = nltk.ConditionalFreqDist(bigrams)
 
 def generate_random_word(source = None, num = 1):
     result = []
