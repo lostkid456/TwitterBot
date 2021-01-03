@@ -7,7 +7,7 @@ import sys
 import Generate
 import time 
 
-delay=3600*6
+delay=3600*4
 
 
 
