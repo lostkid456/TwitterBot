@@ -7,7 +7,7 @@ import sys
 import Generate
 import time 
 
-delay=3600
+delay=3600*6
 
 
 
@@ -20,7 +20,9 @@ def main():
         print("Error during authentication")
     while(True):
         tweet=Generate.generate_random_statement()
+        print(tweet)
         status=api.update_status(tweet)
         print(status.id)
         time.sleep(delay)
+
 main()
