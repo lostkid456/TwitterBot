@@ -75,4 +75,80 @@ geometry—namely, Riemann’s. The curvature of others
 is negative. Beltrami has shown that the geometry of
 these surfaces is identical with that of Lobatschewsky.
 Thus the two-dimensional geometries of Riemann and
-Lobatschewsky are connected with Euclidean geometry
+Lobatschewsky are connected with Euclidean geometry. Beings whose minds
+were made as ours, and with senses like ours, but without
+any preliminary education, might receive from a suitablychosen external world impressions which would lead them
+to construct a geometry other than that of Euclid, and to
+localise the phenomena of this external world in a nonEuclidean space, or even in space of four dimensions.
+As for us, whose education has been made by our actual world, if we were suddenly transported into this new
+world, we should have no difficulty in referring phenomena to our Euclidean space. Perhaps somebody may appear on the scene some day who will devote his life to it,
+and be able to represent to himself the fourth dimension. Geometrical Space and Representative Space. It is
+often said that the images we form of external objects
+are localised in space, and even that they can only be
+formed on this condition. It is also said that this space,
+which thus serves as a kind of framework ready prepared
+for our sensations and representations, is identical with
+the space of the geometers, having all the properties of
+that space. To all clear-headed men who think in this way, the preceding statement might well appear extraordinary; but it is as well to see if they are not the victims of some illusion which closer analysis may be able
+to dissipate. In the first place, what are the properties of
+space properly so called? I mean of that space which is
+the object of geometry, and which I shall call geometrical
+space. The following are some of the more essential:—
+1st, it is continuous; 2nd, it is infinite; 3rd, it is of
+three dimensions; 4th, it is homogeneous—that is to say,
+all its points are identical one with another; 5th, it is
+isotropic. Compare this now with the framework of our
+representations and sensations, which I may call representative space. First of all let us consider a purely
+visual impression, due to an image formed on the back
+of the retina. A cursory analysis shows us this image as
+continuous, but as possessing only two dimensions, which
+already distinguishes purely visual from what may be
+called geometrical space. On the other hand, the image
+is enclosed within a limited framework; and there is a
+no less important difference: this pure visual space is not
+homogeneous. All the points on the retina, apart from the
+images which may be formed, do not play the same rôle.
+The yellow spot can in no way be regarded as identical with a point on the edge of the retina. Not only does the
+same object produce on it much brighter impressions, but
+in the whole of the limited framework the point which
+occupies the centre will not appear identical with a point
+near one of the edges. Closer analysis no doubt would
+show us that this continuity of visual space and its two
+dimensions are but an illusion. It would make visual
+space even more different than before from geometrical
+space, but we may treat this remark as incidental. 
+However, sight enables us to appreciate distance, and
+therefore to perceive a third dimension. But every one
+knows that this perception of the third dimension reduces
+to a sense of the effort of accommodation which must
+be made, and to a sense of the convergence of the two
+eyes, that must take place in order to perceive an object
+distinctly. These are muscular sensations quite different
+from the visual sensations which have given us the concept of the two first dimensions. The third dimension will
+therefore not appear to us as playing the same rôle as the
+two others. What may be called complete visual space is
+not therefore an isotropic space. It has, it is true, exactly
+three dimensions; which means that the elements of our
+visual sensations (those at least which concur in forming
+the concept of extension) will be completely defined if we know three of them; or, in mathematical language, they
+will be functions of three independent variables. But let
+us look at the matter a little closer. The third dimension is revealed to us in two different ways: by the effort
+of accommodation, and by the convergence of the eyes.
+No doubt these two indications are always in harmony;
+there is between them a constant relation; or, in mathematical language, the two variables which measure these
+two muscular sensations do not appear to us as independent. Or, again, to avoid an appeal to mathematical ideas
+which are already rather too refined, we may go back to
+the language of the preceding chapter and enunciate the
+same fact as follows:—If two sensations of convergence
+A and B are indistinguishable, the two sensations of accommodation A0 and B
+0 which accompany them respectively will also be indistinguishable. But that is, so to
+speak, an experimental fact. Nothing prevents us à priori from assuming the contrary, and if the contrary takes
+place, if these two muscular sensations both vary independently, we must take into account one more independent variable, and complete visual space will appear to
+us as a physical continuum of four dimensions. And so in
+this there is also a fact of external experiment. Nothing
+prevents us from assuming that a being with a mind like ours, with the same sense-organs as ourselves, may be
+placed in a world in which light would only reach him after being passed through refracting media of complicated
+form. The two indications which enable us to appreciate
+distances would cease to be connected by a constant relation. A being educating his senses in such a world would
+no doubt attribute four dimensions to complete visual
+space.
